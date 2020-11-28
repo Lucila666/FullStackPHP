@@ -1,0 +1,29 @@
+
+body{
+    background-color:#0D0D0D;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+h1{
+    color: #E3080B;
+}
+h2{
+    color:#F68587;
+}
+h3{
+    color: #E3080B;
+    text-align: center;
+}
+h4{
+    color:#F68587;
+    text-align: center;
+}
+.container{
+    background-color:#0D0D0D;
+    align-content: center;
+    text-align: center;
+    color:#F68587;
+}
+.imagen{
+    align-content: center;
+}
