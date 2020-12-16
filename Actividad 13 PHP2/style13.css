@@ -1,0 +1,26 @@
+.registro{
+    color: #0f0f0f;
+    text-align: right;
+}
+.clave{
+    color: #fa0808;
+    text-align: right;
+
+}
+
+h2{
+    background-color: #107c73;
+    color:#ffffff;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h3{
+    color: #fa0808;
+    text-align: center;
+    text-size-adjust: 15;
+}
+p{
+    text-align: center;
+}
