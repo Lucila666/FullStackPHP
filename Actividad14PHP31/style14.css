@@ -1,0 +1,17 @@
+body{
+    background-image: url("libros.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+h1{
+    color: rgb(233, 176, 176);
+    text-align: center;
+}
+p{
+    color: rgb(233, 176, 176);
+    text-align: center;
+}
+h2{
+    color: rgb(233, 176, 176);
+    text-align: center;
+}
